@@ -41,8 +41,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/lucasooliveiranh/TypeScript_FirstProject.git](https://github.com/lucasooliveiranh/TypeScript_FirstProject.git)
+   cd TypeScript_FirstProject
    ```
 
 2. **Initialize Node.js and install TypeScript as a dev dependency:**
@@ -67,8 +67,3 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 * **Language:** TypeScript
 * **Runtime:** Node.js
 * **Compiler:** `tsc` (TypeScript Compiler)
-
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
