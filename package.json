@@ -1,0 +1,22 @@
+{
+  "name": "typescript_firstproject",
+  "version": "1.0.0",
+  "description": "My First TypeScript Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasooliveiranh/TypeScript_FirstProject.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lucasooliveiranh/TypeScript_FirstProject/issues"
+  },
+  "homepage": "https://github.com/lucasooliveiranh/TypeScript_FirstProject#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
